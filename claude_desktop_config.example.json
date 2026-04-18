@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "network-mcp-server": {
+      "command": "C:\\Users\\Nihal Ahammed Ismail\\Documents\\Claude\\Projects\\Assignment 5\\network-mcp-server\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\Nihal Ahammed Ismail\\Documents\\Claude\\Projects\\Assignment 5\\network-mcp-server\\server.py"
+      ],
+      "env": {
+        "DEVICE_HOST": "sandbox-iosxe-latest-1.cisco.com",
+        "DEVICE_PORT": "22",
+        "DEVICE_USERNAME": "admin",
+        "DEVICE_PASSWORD": "C1sco12345",
+        "DEVICE_TYPE": "cisco_xe"
+      }
+    }
+  }
+}
